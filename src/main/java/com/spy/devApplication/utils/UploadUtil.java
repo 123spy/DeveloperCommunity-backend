@@ -18,11 +18,13 @@ import java.util.UUID;
 public class UploadUtil {
 
     // 阿里云OSS服务配置
-    public static final String ALI_DOMAIN = "https://dev-coff.oss-cn-qingdao.aliyuncs.com/";
+    public static final String ALI_DOMAIN = "**";
     // 地域节点
-    public static final String endpoint = "https://oss-cn-qingdao.aliyuncs.com";
-    public static final String accessKeyId = "LTAI5tRR8MRxk6Ua5tkd6qb9";
-    public static final String accessKeySecret = "EKgHBst4fxNZPIJtMjq83L6KYS5Nwv";
+    public static final String endpoint = "**";
+    public static final String accessKeyId = "**";
+    public static final String accessKeySecret = "**";
+
+    
 
     /**
      * 阿里云OSS文件上传
